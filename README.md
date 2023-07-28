@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog Dhakal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="suyog-dhakal" /> </p>
 
-- 🌱 I’m Computer Engineering Undergraduate
+- 🌱 I’m Computer Engineer
 
 -  🌱 I’m currently into **Data Science**
 
