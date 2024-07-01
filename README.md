@@ -3,7 +3,7 @@
 
 - 🌱 I’m Computer Engineer
 
--  🌱 I’m currently into **Data Science**
+-  🌱 I’m currently into **Data Science** and **Machine Learning**
 
 - 👨‍💻 Portfolio [https://suyog-dhakal.github.io/Portfolio/](https://suyog-dhakal.github.io/Portfolio/)
 
